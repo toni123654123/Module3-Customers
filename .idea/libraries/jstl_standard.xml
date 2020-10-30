@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jstl-standard">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../JSTL Jars/JSTL Jars/jstl-standard.jar" />
+      <root url="file://$PROJECT_DIR$/../../JSTL Jars/JSTL Jars/jstl-1.2.jar" />
+      <root url="file://$PROJECT_DIR$/../../JSTL Jars/JSTL Jars/jstl-impl-1.2.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JSTL Jars/JSTL Jars/jstl-1.2.jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JSTL Jars/JSTL Jars/jstl-impl-1.2.jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JSTL Jars/JSTL Jars/jstl-standard.jar" recursive="false" />
+  </library>
+</component>
